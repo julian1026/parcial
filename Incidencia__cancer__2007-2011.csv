@@ -1,0 +1,63 @@
+Departamento,Incidencia estimada anual Casos ,Incidencia estimada anual Tasa cruda ,Incidencia estimada anual TAE ,Mortalidad observada anual Muertes ,Mortalidad observada anual Tasa cruda ,Mortalidad observada anual TAE,Prevalencia estimada (casos)  1 año,Prevalencia estimada (casos)  3 años,Prevalencia estimada (casos)  5 años,Genero
+Antioquia,4606,157.4,173.1,2638,90.2,99.7,2787,7168,10669,Hombres
+Arauca,121,98,144.3,55,44.5,67,78,203,300,Hombres
+Caldas,871,182.2,171.2,499,104.4,97.5,520,1335,1992,Hombres
+Casanare,160,98.3,145.8,77,47.3,71.8,102,263,392,Hombres
+Cauca,726,109.5,122.2,394,59.5,66,444,1149,1708,Hombres
+Cesar,497,104.3,141.7,254,53.3,72.9,320,826,1227,Hombres
+Cundinamarca,1546,127,135,851,69.9,74.2,955,2461,3666,Hombres
+Huila,740,137.9,160.3,410,76.4,88.9,449,1161,1730,Hombres
+La Guajira,214,54.7,83,100,25.5,38.8,138,357,528,Hombres
+Magdalena,634,105.5,133,329,54.8,69.5,402,1037,1539,Hombres
+Meta,594,138.5,166.9,313,73,88.7,372,960,1434,Hombres
+Norte de Santander,900,141,165.3,497,77.9,91.8,553,1424,2122,Hombres
+Putumayo,105,63.9,94.4,55,33.5,49.6,62,157,230,Hombres
+Risaralda,828,184.7,182.4,469,104.6,103.2,499,1287,1919,Hombres
+Santander,1392,140.9,150,768,77.8,82.8,858,2212,3294,Hombres
+Sucre,360,88.5,100.4,186,45.7,52,229,594,888,Hombres
+Tolima,1119,160.8,150.2,610,87.7,81.1,690,1779,2651,Hombres
+Valle del Cauca,3582,170.1,179.6,1931,91.7,96.8,2250,5805,8634,Hombres
+Grupo Amazonas*,82,50.6,82.1,45,27.8,47.4,50,128,194,Hombres
+Colombia,29734,133.9,151.5,16081,72.4,82.3,18458,47634,70928,Hombres
+Antioquia,5175,169,159.9,2781,90.8,86.2,3469,9275,14277,Mujeres
+Arauca,132,109.1,148.4,58,47.9,68.9,97,256,392,Mujeres
+Caldas,989,198.5,170.4,509,102.2,85.5,684,1830,2821,Mujeres
+Casanare,149,95,123.5,74,47.2,65.2,104,277,422,Mujeres
+Cauca,795,123.2,128.6,394,61,63.2,544,1453,2238,Mujeres
+Cesar,493,103.2,127.3,238,49.8,65.4,349,931,1432,Mujeres
+Cundinamarca,1611,132,129.9,798,65.4,63.7,1113,2984,4590,Mujeres
+Huila,711,133.6,145.9,363,68.2,74.6,493,1317,2020,Mujeres
+La Guajira,226,56.6,72.6,101,25.3,33.5,157,425,652,Mujeres
+Magdalena,615,104.2,122.2,304,51.5,61.6,432,1154,1771,Mujeres
+Meta,612,144.3,167.9,303,71.4,86.2,430,1142,1747,Mujeres
+Norte de Santander,915,141.1,148.6,489,75.4,79.7,615,1628,2491,Mujeres
+Putumayo,97,61.2,85.4,47,29.7,43.3,62,165,253,Mujeres
+Risaralda,895,189.9,168.6,489,103.8,91,595,1586,2438,Mujeres
+Santander,1569,155,145.5,776,76.7,70.8,1089,2921,4507,Mujeres
+Sucre,377,95.2,103.6,193,48.7,53.4,259,692,1059,Mujeres
+Tolima,1189,172.9,161.3,570,82.9,75.1,837,2255,3482,Mujeres
+Valle del Cauca,4057,181.7,167.1,2084,93.3,85.1,2811,7497,11520,Mujeres
+Grupo Amazonas*,82,54,83.4,34,22.4,37.3,58,157,237,Mujeres
+Colombia,33084,145.3,145.6,16572,72.8,73.2,22908,61325,94438,Mujeres
+"TAE: tasa ajustada por edad, por 100.000 habitantes",,,,,,,,,,
+Chocó,134,56.5,78.2,62,26.2,37.1,93,241,366,Mujeres
+Chocó,145,61.8,99.7,66,28.1,45,95,250,367,Hombres
+"*Amazonas, Guainía, Guaviare, Vichada y Vaupés",,,,,,,,,,
+Caquetá,218,99.6,127.4,109,49.8,66.4,151,401,613,Mujeres
+Bolívar,983,100.4,120.8,496,50.7,61.1,637,1640,2431,Hombres
+Atlántico,1639,141.5,144.9,752,64.9,67.5,1190,3212,4971,Mujeres
+Atlántico,1371,121.7,147.9,695,61.7,75.3,881,2281,3386,Hombres
+Caquetá,229,102.6,132,117,52.4,68.6,139,365,544,Hombres
+Córdoba,669,86.2,97.6,331,42.6,49,461,1232,1887,Mujeres
+Bogotá,4924,140.8,167.7,2607,74.6,90.1,3094,8008,11959,Hombres
+Bogotá,6144,163.3,158,3001,79.7,78.5,4309,11564,17839,Mujeres
+Córdoba,687,87.8,105.5,330,42.2,50.6,445,1153,1712,Hombres
+Quindío,615,220.9,193.3,298,107.1,91.5,425,1132,1746,Mujeres
+Boyacá,909,143.6,128.6,455,71.9,61.1,616,1653,2552,Mujeres
+San Andrés y Providencia,34,93,94.8,10,27.4,29,26,70,108,Mujeres
+Bolívar,1036,105.8,113.7,465,47.5,52,752,2034,3160,Mujeres
+Boyacá,904,143,136,493,78,73.2,564,1456,2164,Hombres
+Nariño,997,123.5,127.7,484,59.9,61.9,687,1841,2847,Mujeres
+Nariño,813,100.1,111.7,463,57,63.6,484,1245,1857,Hombres
+San Andrés y Providencia,44,121.6,163.8,15,41.5,61.7,30,78,119,Hombres
+Quindío,557,207.7,195.5,318,118.6,111.2,331,852,1272,Hombres
